@@ -9,8 +9,6 @@
 
 - 💻 I was working on [Yt-Auto](https://github.com/TM1988/YT-AUTO)
 
-- 🎮 Also Check out: [Tap Champs](https://github.com/TM1988/TapChamps)
-
 - My Interests include **Gaming, Board games, Coding and Learning new things**
 
 - 📫 How to reach me **tmgd.og1@gmail.com**
