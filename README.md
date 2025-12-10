@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanish</h1>
 <h3 align="center">A passionate student and developer!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tm1988" alt="tm1988" /></a> </p>
-
 - ⚙️ I’m currently working on [Taskflow AI](https://github.com/tm1988/taskflow-ai)
 
 - 📖 I’m currently learning **AI and ML in python**
