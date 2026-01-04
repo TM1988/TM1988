@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tanish</h1>
 <h3 align="center">A passionate student and developer!</h3>
 
-- ⚙️ I’m currently working on [Taskflow AI](https://github.com/tm1988/taskflow-ai)
+- ⚙️ I’m currently working on [Coolpad V1](https://github.com/tm1988/coolpad-v1) (My first hardware project!)
 
 - 📖 I’m currently learning **AI and ML in python**
 
-- 💻 I was working on [Yt-Auto](https://github.com/TM1988/YT-AUTO)
+- 💻 I was working on [Taskflow AI](https://github.com/tm1988/taskflow-ai)
 
 - My Interests include **Gaming, Board games, Coding and Learning new things**
 
-- 📫 How to reach me **tmgd.og1@gmail.com**
+- 📫 You can reach me at **tmgd.og1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
