@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanish</h1>
+<h1 align="center">Hi 👋, I'm Iron</h1>
 <h3 align="center">A passionate student and developer!</h3>
 
 - ⚙️ I’m currently working on [Coolpad V1](https://github.com/tm1988/coolpad-v1) (My first hardware project!) and [Taskflow-Admin](https://github.com/tm1988/taskflow-admin)!
