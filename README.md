@@ -9,8 +9,6 @@
 
 - My Interests include **Gaming, Board games, Coding and Learning new things**
 
-- 📫 You can reach me at **tmgd.og1@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@tan135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@tan135" height="30" width="40" /></a>
